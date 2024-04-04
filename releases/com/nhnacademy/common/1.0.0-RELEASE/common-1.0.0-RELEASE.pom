@@ -28,7 +28,7 @@
   <distributionManagement>
     <repository>
       <id>release</id>
-      <url>https://github.com/nhnacademy-aiot1-T1/nhnacademy-common-maven-repo/tree/main/releases</url>
+      <url>https://github.com/nhnacademy-aiot1-T1/nhnacademy-common-maven-repo/raw/main/releases</url>
     </repository>
   </distributionManagement>
 
